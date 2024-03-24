@@ -1,0 +1,10 @@
+.square {
+  font-weight: bold;
+  padding: 5%;
+  font-size: 3em;
+}
+
+.board-row {
+  display: flex;
+  justify-content: center;
+}
